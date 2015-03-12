@@ -1,0 +1,1 @@
+{"mixinTypes":[],"runners":{"configs":{"system:/cpp/simple":{"ram":256,"variables":{},"options":{}}},"default":"system:/cpp/simple"},"builders":{"configs":{}},"type":"cpp","attributes":{"language":["cpp"]}}
